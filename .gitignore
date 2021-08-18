@@ -106,3 +106,5 @@ dist
 # Configuración visual studio code
 
 .vscode
+.figurascopy.js
+.figurascopy2.js
